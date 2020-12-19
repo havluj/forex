@@ -1,9 +1,14 @@
+# Disclaimer
+This repository contains code that I wrote when studying Software Engineering at Czech Technical University in Prague.
+
+The objective of these assignments was to write code that works, covers all edge cases, and is somewhat performant. Usually, there were additional rules we had to follow - like limits on the amount of memory our programs could use or that all code needed to be in a single file 🤷‍♂️.
+
+Please keep in mind that I wrote this code years ago and that it was a school assignment. This repository does not serve as the best example of my coding skills.
+
+You can read the full assignment bellow (in Czech).
+
 # Forex
 
-## Disclaimer
-The program is not properly tested nor serves as the best example of my coding skills. It needed to be written rapidly due to the conditions of the class. You can read the full assignment bellow (in Czech).
-
-## Zadání
 Úkolem je realizovat třídu, která bude umožňovat rychle řešit problémy v oblasti bankovnictví.
 
 Předpokládáme bankovní operace na finančních trzích. Banka sestavuje svůj kurzovní lístek, ve kterém pro vybrané dvojice měn vyplní směnný kurz. Banka má absolutní volnost, které dvojice měn a za jaký kurz bude směňovat. Tedy banka může nabízet např. směnu USD -> EUR, ale nemusí nabízet směnu EUR -> USD.
